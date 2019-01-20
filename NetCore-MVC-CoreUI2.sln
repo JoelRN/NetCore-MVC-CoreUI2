@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8087B40C-CFC8-4B3F-B434-3CE3B49FF736}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{C833F7AA-7489-41FE-A9B0-18E3FA08F540}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoreUI.MVC", "CoreUI.MVC\CoreUI.MVC.csproj", "{F3D7C69E-B571-4169-B071-51098BE722D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3D7C69E-B571-4169-B071-51098BE722D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3D7C69E-B571-4169-B071-51098BE722D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3D7C69E-B571-4169-B071-51098BE722D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3D7C69E-B571-4169-B071-51098BE722D3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{F3D7C69E-B571-4169-B071-51098BE722D3} = {C833F7AA-7489-41FE-A9B0-18E3FA08F540}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D38B42B-C5FB-4C90-9D99-F210008803DB}
+	EndGlobalSection
+EndGlobal
