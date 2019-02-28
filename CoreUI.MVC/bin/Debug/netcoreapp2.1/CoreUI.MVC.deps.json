@@ -246,7 +246,7 @@
         "runtime": {
           "lib/netstandard2.0/Microsoft.VisualStudio.Web.CodeGeneration.dll": {
             "assemblyVersion": "2.1.7.0",
-            "fileVersion": "2.1.7.18340"
+            "fileVersion": "2.1.7.19018"
           }
         },
         "compile": {
@@ -260,7 +260,7 @@
         "runtime": {
           "lib/netstandard2.0/Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll": {
             "assemblyVersion": "2.1.7.0",
-            "fileVersion": "2.1.7.18340"
+            "fileVersion": "2.1.7.19018"
           }
         },
         "compile": {
@@ -276,7 +276,7 @@
         "runtime": {
           "lib/netstandard2.0/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll": {
             "assemblyVersion": "2.1.7.0",
-            "fileVersion": "2.1.7.18340"
+            "fileVersion": "2.1.7.19018"
           }
         },
         "compile": {
@@ -290,7 +290,7 @@
         "runtime": {
           "lib/netstandard2.0/dotnet-aspnet-codegenerator-design.dll": {
             "assemblyVersion": "2.1.7.0",
-            "fileVersion": "2.1.7.18340"
+            "fileVersion": "2.1.7.19018"
           }
         },
         "compile": {
@@ -304,7 +304,7 @@
         "runtime": {
           "lib/netstandard2.0/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll": {
             "assemblyVersion": "2.1.7.0",
-            "fileVersion": "2.1.7.18340"
+            "fileVersion": "2.1.7.19018"
           }
         },
         "compile": {
@@ -320,7 +320,7 @@
         "runtime": {
           "lib/netstandard2.0/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll": {
             "assemblyVersion": "2.1.7.0",
-            "fileVersion": "2.1.7.18340"
+            "fileVersion": "2.1.7.19018"
           }
         },
         "compile": {
@@ -337,7 +337,7 @@
         "runtime": {
           "lib/netstandard2.0/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll": {
             "assemblyVersion": "2.1.7.0",
-            "fileVersion": "2.1.7.18340"
+            "fileVersion": "2.1.7.19018"
           }
         },
         "compile": {
@@ -351,7 +351,7 @@
         "runtime": {
           "lib/netstandard2.0/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll": {
             "assemblyVersion": "2.1.7.0",
-            "fileVersion": "2.1.7.18340"
+            "fileVersion": "2.1.7.19018"
           }
         },
         "compile": {
